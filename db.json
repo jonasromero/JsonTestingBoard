@@ -1,0 +1,44 @@
+{
+  "boards": [
+    {
+      "id": "1",
+      "typeFlow": "1",
+      "user": "DepVentas",
+      "description": "Realizar un informe de respuesta de las ventas de noviembre",
+      "initialDate": "2020/11/15",
+      "finalDate": "",
+      "title": "Reporte Ventas",
+      "state": "PROCESANDO"
+    },
+    {
+      "id": "2",
+      "typeFlow": "0",
+      "user": "MOrtega",
+      "description": "Realizar un informe de respuesta de las ventas de Octubre",
+      "initialDate": "2020/11/01",
+      "finalDate": "",
+      "title": "Reporte Ventas",
+      "state": "PROCESANDO"
+    },
+    {
+      "id": "3",
+      "typeFlow": "1",
+      "user": "DepVentas",
+      "description": "Realizar un informe de respuesta de las ventas de noviembre",
+      "initialDate": "2020/11/15",
+      "finalDate": "",
+      "title": "Reporte Ventas",
+      "state": "PROCESANDO"
+    },
+    {
+      "id": "4",
+      "typeFlow": "2",
+      "user": "KFlores",
+      "description": "Realizar un informe de respuesta de las ventas de noviembre",
+      "initialDate": "2020/11/15",
+      "finalDate": "",
+      "title": "Reporte Ventas",
+      "state": "PROCESANDO"
+    }
+  ]
+}
